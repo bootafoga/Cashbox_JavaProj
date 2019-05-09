@@ -1,2 +1,2 @@
 # Cashbox_JavaProj
-Application that represents itself as a cashbox. In input are transmitted codes of products, in output transmitted check with information about products: title, price and total price of all items.
+Application that represents itself as a cashbox. The program receives products codes and a check with information is generated at he output:name, price and total price of all items.
